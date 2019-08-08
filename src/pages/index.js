@@ -14,6 +14,7 @@ const IndexPage = () => {
       <h1 id='score'> Score: 0</h1>
       <div style={{ width: '100%', textAlign: 'center' }}>
         <Canvas />
+        <p> Press Spacebar to Start </p>
       </div>
     </Layout>
   )

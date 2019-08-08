@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "classic-snake/",
   siteMetadata: {
     title: `SNAKE`,
     description: `Play the classic Snake game. Created with JavaScript and HTML5 Canvas`,
